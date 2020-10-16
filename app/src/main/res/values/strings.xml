@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Cuento</string>
+    <string name="texto1">Bienvenido</string>
+    <string name="texto2">Ingrese su nombre</string>
+    <string name="texto3">Comenzar</string>
+    <string name="pg1_next">Siguiente</string>
+    <string name="pg1_prev">Anterior</string>
+    <string name="pg1_historia">Un chico se encontraba en el bosque a altas horas de la noche, cuando se percato que se le habia pasado el tiempo ya estaba perdido.</string>
+    <string name="pg2_historia">Despues de horas de desesperada busqueda vio una cabaña a lo lejos, sin pensarlo se dirigió para allá.</string>
+    <string name="pg3_historia">En cuanto llegó, se dio cuenta que la puerta estaba abierta por lo que decidió dormir ahí e irse temprano al otro día.</string>
+    <string name="pg4_historia">Lo primero que notó fue que la cabaña tenia muchos retratos aterradores, lo incomodaban, pero solo podia elegir entre quedarse ahí o deambular por el bosque toda la noche por lo que prefirió aguantarse su temor y quedarse a dormir.</string>
+    <string name="pg5_historia">Al otro dia se levanto temprano para irse, pero antes de partir notó que esos retraros que lo habian perturbado la noche anterior no estaban, nunca habian estado, lo que en realidad habia eran unas ventanas...</string>
+    <string name="fin">FIN</string>
+    <string name="pgf">Volver al Inicio</string>
+</resources>
